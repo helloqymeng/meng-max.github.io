@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>窗外蟋蟀博客</title>
+    <title>屈小孟的博客</title>
     <link>https://keysaim.github.io/</link>
-    <description>Recent content on 窗外蟋蟀博客</description>
+    <description>Recent content on 屈小孟的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 21 Mar 2018 13:44:52 +0800</lastBuildDate>
     
-        <atom:link href="https://keysaim.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://meng-max.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,7 +18,7 @@
       
       <guid>https://keysaim.github.io/about/</guid>
       
-        <description>&lt;p&gt;这是一个学习、分享的平台！&lt;/p&gt;
+        <description>&lt;p&gt;这是屈小孟的个人博客！&lt;/p&gt;
 </description>
       
     </item>
